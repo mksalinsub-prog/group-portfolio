@@ -97,8 +97,7 @@ function Member1() {
           <h2>Contact</h2>
           <SocialLinks
             facebook="https://facebook.com/yourprofile"
-            github="https://github.com/yourusername"
-            email="your@email.com"
+            email="mksalinsub@tip.edu.ph"
           />
         </section>
       </div>
