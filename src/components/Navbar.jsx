@@ -9,6 +9,7 @@ function Navbar() {
 
       <div className="nav-links">
         <Link to="/">Home</Link>
+        <Link to="/select-player">Pick Player</Link>
       </div>
     </nav>
   );
